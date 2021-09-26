@@ -1,11 +1,7 @@
-body {
-	/* margin: 0 auto; */
-	
-}
+
 .box {
 	margin: 0 auto;
-	/* width: 500px; */
-	/* text-align: center; */
+
 }
 .total {
 	font-weight: 700;
@@ -13,9 +9,6 @@ body {
 }
 .right {
 	float: right;
-	 /* text-align: right;
-	margin-right: auto;
-	right: 0px; */
 }  
 
 .total-user {
