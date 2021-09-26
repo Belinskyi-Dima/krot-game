@@ -3,6 +3,9 @@
 	margin: 0 auto;
 
 }
+/* .test {
+	background: url('../img/krot-1.jpg')center no-repeat;
+} */
 .total {
 	font-weight: 700;
 	font-size: 30px;
@@ -30,22 +33,22 @@ td {
 	border: 1px solid #000;
 }
 .test	{
-	
+/* 	
 	display: block;
 	height: 50px;
-	width: 50px;
+	width: 50px; */
 }
 .krot {
-	background: url('./img/krot-1.jpg')center no-repeat; 
+	background: url('../img/krot-1.jpg')center no-repeat; 
 
 }
 
 .red {
-	background:url("./img/shit.png") center no-repeat;
+	background:url("../img/shit.png") center no-repeat;
 }
 .green {
 	
-	background:url("./img/flowers.png") center no-repeat;
+	background:url("../img/flowers.png") center no-repeat;
 }
 .winner {
 	text-transform: uppercase;
