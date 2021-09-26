@@ -36,16 +36,16 @@ td {
 	width: 50px;
 }
 .krot {
-	background: url('/img/krot-1.jpg')center no-repeat; 
+	background: url('./img/krot-1.jpg')center no-repeat; 
 
 }
 
 .red {
-	background:url("/img/shit.png") center no-repeat;
+	background:url("./img/shit.png") center no-repeat;
 }
 .green {
 	
-	background:url("/img/flowers.png") center no-repeat;
+	background:url("./img/flowers.png") center no-repeat;
 }
 .winner {
 	text-transform: uppercase;
@@ -66,7 +66,7 @@ td {
 	border: none;
 	width: 100px;
 	border-radius: 5px;
-	height: 30px;
+	height: 25px;
 	cursor: pointer;
 	background: rgb(68, 72, 204);
 	color: white;
